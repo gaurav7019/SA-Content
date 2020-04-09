@@ -190,10 +190,7 @@
     background: #76003c;
     color: white;
   }
-  #welcome > button:hover {
-    background: white;
-    color: #76003c;
-  }
+ 
   #cna,
   #cna > a {
     text-decoration: none;

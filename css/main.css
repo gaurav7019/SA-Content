@@ -195,3 +195,36 @@ th, td {
   color: #808080;
   
 }
+.instructions{
+  background: #76003c;
+  padding: 10px;
+  align: center;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-top: -110px;
+  font-family: Montserrat-Regular;
+ }
+.instructions:hover{
+  color: white;
+  text-decoration: none;
+}
+.instructions:visited{
+  background: #76003c;
+  padding: 10px;
+  align: center;
+  color: white;
+  text-decoration: none;
+}
+.page{
+  background: #d1d1d1;
+}
+.contact-details:hover{
+  color: #ffffff;
+  font-family: Montserrat-Regular;
+}
+.contact-details{
+  color: #ffffff;
+  font-family: Montserrat-Regular;
+}
