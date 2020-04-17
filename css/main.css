@@ -134,9 +134,14 @@ th, td {
 }
 
 .column100.column1 {
-  width: 265px;
+  width: 100px;
   padding-left: 42px;
 }
+.column100.column2 {
+  width: 150px;
+  padding-left: 20px;
+}
+
 
 .row100.head th {
   padding-top: 24px;
@@ -191,6 +196,9 @@ th, td {
   color: #fff;
   
 }
+.links{
+  font-size: 15px;
+}
 .table100.ver3 .row100 .links{
   color: #808080;
   
@@ -227,4 +235,10 @@ th, td {
 .contact-details{
   color: #ffffff;
   font-family: Montserrat-Regular;
+}
+
+@media (max-width: 1000px) {
+  .container-table100{
+    width: 980px;
+  }
 }
