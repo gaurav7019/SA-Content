@@ -770,3 +770,8 @@ button {
 button:hover {
 	cursor: pointer;
 }
+iframe {
+  width: 70vw;
+  height: 90vh;
+  margin: 5vh 15vw;
+}
