@@ -134,11 +134,11 @@ th, td {
 }
 
 .column100.column1 {
-  width: 15%;
+  width: 100px;
   padding-left: 42px;
 }
 .column100.column2 {
-  width: 30%;
+  width: 150px;
   padding-left: 20px;
 }
 

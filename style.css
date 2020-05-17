@@ -752,7 +752,7 @@ strong {
   flex-wrap: wrap;
 }
 .contact-details {
-  font-size: rem;
+  font-size: 1.5rem;
   text-shadow: 1px 0px 0px #1f1f1f;
   transition: transform 0.3s ease-out;
   color: darkgray;
@@ -769,9 +769,4 @@ button {
 
 button:hover {
 	cursor: pointer;
-}
-iframe {
-  width: 70vw;
-  height: 90vh;
-  margin: 5vh 15vw;
 }
